@@ -1,0 +1,8 @@
+name: scanner
+dependencies:
+- python=3.6
+- pandas=0.20.3
+- lxml=3.8.0
+- pip:
+  - cherrypy==10.2.1
+  - click==6.7
